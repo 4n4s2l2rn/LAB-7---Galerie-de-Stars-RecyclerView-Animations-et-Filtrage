@@ -3,6 +3,7 @@
 Application Android permettant d'afficher une galerie de stars (personnalités célèbres) sous forme de liste avec images circulaires, notes, filtrage par nom et animations d'introduction.
 
 ---
+<img width="480" height="968" alt="demo" src="https://github.com/user-attachments/assets/a2cb23c3-5d8a-43e4-adbf-887a83f10a01" />
 
 ## 📱 Aperçu
 
